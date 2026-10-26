@@ -5,7 +5,7 @@ const SHOP={name:"Kanvi Cloud Kitchen",phone:"916303585986",city:"Rajahmundry",
   gaId:"",                         // Google Analytics ID e.g. G-XXXXXXX (optional)
   open:"11:00", close:"23:00", deliveryTime:"35-45 mins",
   freeDeliveryAbove:499, firstOrderCode:"FIRST50", firstOrderOff:50,
-  areas:["Danavaipeta","Morampudi","Innespeta","Devi Chowk","Kotipalli Bus Stand","Lalacheruvu","Tadithota","Prakash Nagar"],
+  areas:["Danavaipeta","Morampudi","Innespeta","Devi Chowk","Kotipalli Bus Stand","Lalacheruvu","Tadithota","Prakash Nagar","Divancheruvu"],
   banner:"🔥 Today's Offer: Flat ₹30 OFF on Clay Pot Biryani — order on WhatsApp!"};
 // SAMPLE reviews - REPLACE with your real customer reviews (or leave [] to hide the section)
 const REVIEWS=[{n:"Customer name",t:"Write a real review here. Ask happy customers for a Google review!",r:5}];
